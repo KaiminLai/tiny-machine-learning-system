@@ -1,5 +1,8 @@
 # Tiny Machine Learning System
 
+## Reimplementation
+this project is ready to reimplement since the low efficiency, incomplete api and inappropriate uses of eigen api.
+
 ## About
 tiny-machine-learning-system is about: 
 C++ implementations of some of the fundamental Machine Learning models and algorithms from scratch
